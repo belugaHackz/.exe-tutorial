@@ -1,0 +1,6 @@
+@echo
+cls
+echo *your text here*
+pause
+Start *your file to start like Chrome.exe*
+Stop
