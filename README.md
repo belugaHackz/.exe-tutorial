@@ -1,8 +1,8 @@
 # .exe-tutorial
-How to create an .exe or application file for windows using notepad
+</h1>How to create an .exe or application file for windows using notepad</h1>
 
 
-</h2>This is how to create a file that is executable on windows computers</h2>
+</h1>This is how to create a file that is executable on windows computers</h1>
 
 Step 1
 Open Notepad on your desktop
