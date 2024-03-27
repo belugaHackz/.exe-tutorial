@@ -1,0 +1,6 @@
+@echo
+cls
+echo welcome to g4u
+pause
+Start chrome.exe
+Stop
